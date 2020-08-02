@@ -7,9 +7,8 @@
 
                                                                                                                                         
                                                                                              
-### `Ahmed` is my name, you can call me `Tarek` as well !
 
-I like working on web application projects related to ERP & E-Commerce.
+### I like working on web application projects related to ERP & E-Commerce.
 
 - Full stack developer :man_technologist:
 - Egyptian :egypt: living in Germany :de:
