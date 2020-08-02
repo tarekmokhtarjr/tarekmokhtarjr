@@ -1,6 +1,15 @@
+                                       _                        _   _______             _    
+                                 /\   | |                      | | |__   __|           | |   
+                                /  \  | |__  _ __ ___   ___  __| |    | | __ _ _ __ ___| | __
+                               / /\ \ | '_ \| '_ ` _ \ / _ \/ _` |    | |/ _` | '__/ _ \ |/ /
+                              / ____ \| | | | | | | | |  __/ (_| |    | | (_| | | |  __/   < 
+                             /_/    \_\_| |_|_| |_| |_|\___|\__,_|    |_|\__,_|_|  \___|_|\_\
+
+                                                                                                                                        
+                                                                                             
 ### `Ahmed` is my name, you can call me `Tarek` as well !
 
-4+ years professional Full stack developer. I like working on web application projects related to ERP & E-Commerce.
+4+ years professional Full stack developer :man_technologist:, I like working on web application projects related to ERP & E-Commerce.
 
 - Egyptian :egypt: living in Germany :de:
 - Find me on [linkedin](https://www.linkedin.com/in/ahmed-tarek-840b6196/)
